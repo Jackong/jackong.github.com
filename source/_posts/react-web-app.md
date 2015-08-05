@@ -3,7 +3,7 @@ layout: post
 date: 2015-07-31 15:54:58
 title: 使用React构建Web App
 tags: [react, web-app]
-category: 前端
+category: fontend 
 ---
 
 ### 从Angular到React
