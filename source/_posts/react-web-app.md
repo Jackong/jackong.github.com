@@ -3,7 +3,7 @@ layout: post
 date: 2015-07-31 15:54:58
 title: 使用React构建Web App
 tags: [react, web-app]
-category: fontend 
+category: frontend 
 ---
 
 ### 从Angular到React
@@ -18,7 +18,7 @@ category: fontend
 [Reflux-url]: https://github.com/spoike/refluxjs
 
 * 看中React的理由
-	* 移动开发（[React-Native][React-Native-url] 一处编码，到处运行；一门语言，全端开发） 
+	* 移动开发（[React-Native][React-Native-url] 一处编码，到处运行；一门语言，全端开发）
 	* 廉价的渲染能力（[virtual-dom][virtual-dom-url]）
 	* 模块化（像写Node.js写前端代码，在我的经历中，前端的代码总是看起来很混乱，缺少后端开发者的思想）
 	* 职责单一（一个模块做一件事，插件式开发，专业灵活）
