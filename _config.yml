@@ -5,7 +5,7 @@
 # Site
 title: Jackong
 subtitle: 书写我的人生
-description: Developer 
+description: Developer
 author: Jackong
 language:
 - zh-cn
@@ -47,7 +47,7 @@ highlight:
   tab_replace:
 
 # Category & Tag
-default_category: 未分类 
+default_category: 未分类
 category_map:
 tag_map:
 
@@ -77,6 +77,6 @@ feed:
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: git 
+  type: git
   repository: git@github.com:Jackong/jackong.github.io.git
   branch: master

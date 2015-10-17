@@ -1,9 +1,9 @@
----
 layout: post
 date: 2015-07-31 15:54:58
 title: 使用React构建Web App
 tags: [react, web-app]
 category: frontend
+thumbnailImage: https://www.codementor.io/assets/tutorial_icon/reactjs.png
 ---
 
 ### 从Angular到React

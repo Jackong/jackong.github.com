@@ -3,6 +3,7 @@ description: inline styles
 date: 2015-09-17 10:46:39
 tags: [react, css]
 categories: frontend
+thumbnailImage: https://www.codementor.io/assets/tutorial_icon/reactjs.png
 ---
 
 ## 传统的css
