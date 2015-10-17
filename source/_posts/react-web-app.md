@@ -3,11 +3,13 @@ layout: post
 date: 2015-07-31 15:54:58
 title: 使用React构建Web App
 tags: [react, web-app]
-category: frontend 
+category: frontend
 ---
 
 ### 从Angular到React
 > 在使用React之前，我兴奋地使用着Angular。
+
+<!-- more -->
 
 * 它们的区别
 	* Angular是一个全能框架。（MVVM）

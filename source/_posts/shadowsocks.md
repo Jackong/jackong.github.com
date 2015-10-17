@@ -4,10 +4,9 @@ tags: [shadowsocks, linode, digitalocean]
 categories: network
 ---
 
-> 作为一名开发者，经常需要阅读使用一些国际资源。
-> google, gmail, stackoverflow, github, youtube等等。
-> 如果你不能访问这些，那基本上就算不上个专业的开发。
-> 让我们走进世界的另一端~
+作为一名开发者，经常需要阅读使用一些国际资源。google, gmail, stackoverflow, github, youtube等等。如果你不能访问这些，那基本上就算不上个专业的开发。让我们走进世界的另一端~
+
+<!-- more -->
 
 ## 服务器
 
@@ -78,4 +77,4 @@ ssserver -c ./sss.json --pid-file ./sss.pid --log-file ./sss.log -d start
 
 #### 测试
 
-> 启动并打开google, facebook等进行验证是否配置成功
+> 启动并打开google, facebook等进行验证是否配置

@@ -15,6 +15,8 @@ categories: frontend
 
 * 它没有变量，没有什么function，总之，够用，但不够强大、高效
 
+<!-- more -->
+
 ## 进化的css
 ---
 

@@ -1,14 +1,16 @@
-title: 如何『瞬间』迁移在用大资源 
+title: 如何『瞬间』迁移在用大资源
 layout: post
 date: 2015-08-05 21:49:56
 tags:
-- migration 
+- migration
 categories:
 - backend
 ---
 
-> 想像一下，目录/var/www/app/public/upload被用于资源上传存放。
+想像一下，目录/var/www/app/public/upload被用于资源上传存放。
 起初，用户量不大，看起来没什么问题。可是用户越来越多了，这里的空间越占越大，慢慢地接近100%。
+
+<!-- more -->
 
 此时，我们需要将这些资源转移：
 * 将资源转移到另一大磁盘，如：/data下（简单，影响小）

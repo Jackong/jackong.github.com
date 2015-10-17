@@ -18,6 +18,8 @@ category: frontend
 }
 ```
 
+<!-- more -->
+
 ## 使用ES6语法
 ---
 
