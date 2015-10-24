@@ -2,7 +2,7 @@ title: 使用shadowsocks科学上网
 date: 2015-09-19 22:21:07
 tags: [shadowsocks, linode, digitalocean]
 categories: network
-thumbnailImage: https://fr33d0m.link/favicon.png
+thumbnailImage: http://7xkwtq.com1.z0.glb.clouddn.com/shadowsocks.png
 ---
 
 作为一名开发者，经常需要阅读使用一些国际资源。google, gmail, stackoverflow, github, youtube等等。如果你不能访问这些，那基本上就算不上个专业的开发。让我们走进世界的另一端~

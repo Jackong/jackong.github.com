@@ -2,7 +2,7 @@ title: 使用webpack + react开发
 date: 2015-09-10 17:06:52
 tags: [react, webpack]
 category: frontend
-thumbnailImage: https://avatars1.githubusercontent.com/u/2105791?v=3&s=150
+thumbnailImage: http://7xkwtq.com1.z0.glb.clouddn.com/reactjs.png
 ---
 
 ## 使用.jsx后缀

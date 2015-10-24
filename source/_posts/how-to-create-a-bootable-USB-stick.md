@@ -3,7 +3,7 @@ layout: post
 date: 2015-10-17 20:45:31
 tags: [USB, Linux, Command Line]
 categories: develop
-thumbnailImage: http://beginnerlinuxtutorial.com/wp-content/uploads/2014/05/live-Linux-USB.jpg
+thumbnailImage: http://7xkwtq.com1.z0.glb.clouddn.com/linux-usb.jpg
 ---
 不需要光盘，U盘就可以用来安装操作系统。
 
